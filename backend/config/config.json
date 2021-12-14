@@ -2,24 +2,24 @@
 
 {
   "development": {
-    "username": "seren",
-    "password": "Touffu_66",
-    "database": "cwvk2483_socialnetwork",
+    "username": "root",
+    "password": "XauraurX9@0§",
+    "database": "test_socialnetwork",
     "host": "localhost",
     "port": "3306",
     "dialect": "mysql"
   },
   "test": {
-    "username": "seren",
-    "password": "touffu",
+    "username": "root",
+    "password": "XauraurX9@0§",
     "database": "socialnetwork",
     "host": "localhost",
     "dialect": "mysql"
   },
   "production": {
-    "username": "cwvk2483_seren",
-    "password": "Touffu_66",
-    "database": "cwvk2483_socialnetwork",
+    "username": "root",
+    "password": "XauraurX9@0§",
+    "database": "test_socialnetwork",
     "host": "localhost",
     "port":"3306",
     "dialect": "mysql"
